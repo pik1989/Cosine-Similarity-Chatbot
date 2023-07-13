@@ -1,4 +1,6 @@
-# Cosine-Similarity-Chatbot
+# End to End DS Project
+
+**Project Title:** Cosine Similarity based Chatbot
 
 
 ![image](https://github.com/pik1989/Cosine-Similarity-Chatbot/assets/34673684/ead0a0cc-b64c-4dd4-9753-4a89aebe9494)
